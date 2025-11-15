@@ -1,5 +1,4 @@
 import streamlit as st
-pip install xgboost
 import pandas as pd
 import numpy as np
 from xgboost import XGBRegressor
